@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-df=pd.read_csv("Desktop/zomato.csv")
+df=pd.read_csv("Desktop/zomato.csv") #u can download this dataset from kaggle
 
 
 # In[3]:
